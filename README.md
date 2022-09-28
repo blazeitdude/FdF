@@ -2,7 +2,7 @@
     <h1>
         FdF
     </h1>
-    <h4>Similarity of the standard printf</h4>
+    <h4>Easy terrain mapping using 3D graphics and using the minilibx library</h4>
     <p>
         <a href="#Compile">Compile</a> •
         <a href="#Use">Use</a> •
@@ -11,8 +11,8 @@
 </div>
 
 
->**important!** the project is currently being built only on macOS, Linux support will be added in the future<br/>
-> due to the addition of the menu, the project does not pass the norminette check<br/>
+>**important!** The project is currently being built only on macOS, Linux support will be added in the future<br/>
+> Due to the addition of the menu, the project does not pass the norminette check<br/>
 ## Compile
 to build a project<br/>
 `$ make`<br/>
